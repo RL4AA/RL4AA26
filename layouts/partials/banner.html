@@ -1,0 +1,13 @@
+<div class="banner">
+  {{ with resources.Get "banner.jpg" }}
+    <img src="{{ .RelPermalink }}" alt="Conference Template Banner" />
+  {{ end }}
+  <div class="top-left">
+    <span class="title1">Conference</span><span class="title2">Template</span>
+    <span class="year">2525</span>
+  </div>
+  <div class="bottom-right">
+    June 31, 2525 <br />
+    University Name, and City Maybe
+  </div>
+</div>

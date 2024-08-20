@@ -1,0 +1,22 @@
+{{ $page := . }}
+
+
+<table class="navigation">
+  <tr>
+    {{ with index .Site.Menus "main" }}
+      {{ range . }}
+        {{ $isCurrent := $page.IsMenuCurrent "main" . }}
+        <td class="navigation">
+          <a
+            {{ if $isCurrent }}
+              class="current"
+            {{ end }}
+            title="{{ .Name }}"
+            href="{{ .URL }}"
+            >{{ .Name }}</a
+          >
+        </td>
+      {{ end }}
+    {{ end }}
+  </tr>
+</table>

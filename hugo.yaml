@@ -1,0 +1,21 @@
+baseURL: https://rl4aa.github.io/RL4AA25/
+languageCode: en-uk
+title: RL4AA'25
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Registration
+      pageRef: /registration/
+      weight: 20
+    - name: Program
+      pageRef: /program/
+      weight: 30
+    - name: Directions
+      pageRef: /directions/
+      weight: 40
+    - name: Flyer
+      pageRef: /flyer/
+      weight: 50
