@@ -1,5 +1,7 @@
 ## What is RL4AA'25?
 
+{{< ontheright src="/img/rl4aa_logo.png" >}}
+
 RL4AA'25 is the third instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After two very successful workshops in 2023 and 2024 in Karlsruhe and Salzburg, we are excited to announce the next workshop for 2025. RL4AA'25 will be hosted by DESY in the beautiful port city of Hamburg, Germany.
 
 The workshop will bring together experts from the fields of machine learning, accelerator physics, and high-performance computing to discuss the latest developments in the field of reinforcement learning for autonomous accelerators. The workshop will feature invited talks, contributed talks, and poster sessions, as well as a panel discussion on the future of autonomous accelerators.
@@ -47,8 +49,9 @@ The following institutions are contributing to the organisation of this workshop
 {{< instituteLogoList >}}
 {{< instituteLogo name="DESY" logo="img/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
 {{< instituteLogo name="KIT" logo="img/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
-{{< instituteLogo name="University of Salzburg" logo="img/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at/?lang=en" >}}
+{{< instituteLogo name="University of Salzburg" logo="img/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
 {{< instituteLogo name="CERN" logo="img/CERN_logo.svg.png" link="https://home.cern" >}}
+{{< instituteLogo name="TUHH" logo="img/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
 {{< /instituteLogoList >}}
 
 ## Sponsors
