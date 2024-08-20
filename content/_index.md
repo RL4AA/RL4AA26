@@ -12,8 +12,12 @@ We are looking forward to welcoming you to Hamburg in 2025!
 
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
-{{< speaker name="Albert Einstein" position="Genius" institute="Princeton" image="img/albert_einstein.jpg" link="https://en.wikipedia.org/wiki/Albert_Einstein" >}}
-Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). His work is also known for its influence on the philosophy of science. He is best known to the general public for his mass–energy equivalence formula E = mc^2, which has been dubbed "the world's most famous equation". He received the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect", a pivotal step in the development of quantum theory.
+{{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="img/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
+Jan Peters is a professor at the Technical University of Darmstadt, Germany, and a researcher at the Max Planck Institute for Intelligent Systems. He has significantly advanced the understanding of machine learning, particularly in the area of robot learning and control. His work has focused on enabling robots to acquire new skills autonomously, leveraging techniques such as reinforcement learning and imitation learning. With a background in both engineering and computer science, Jan Peters has published extensively, earning recognition for his innovative approaches to making robots more adaptive and intelligent in dynamic environments. His influence extends through academia and industry, where his research has led to practical applications in robotics, enhancing the capabilities of intelligent systems across various sectors.
+{{< /speaker >}}
+
+{{< speaker name="TBD" position="Role" institute="Institute" image="img/cheetah_outlook_slide_wide.png" link="https://github.com/desy-ml/cheetah" >}}
+T.B.D.
 {{< /speaker >}}
 
 ## Impressions from RL4AA'24
