@@ -1,0 +1,8 @@
+<a
+  class="call-to-action"
+  {{ with .Get "href" }}href="{{ . }}"{{ end }}
+  {{ with .Get "target" }}target="{{ . }}"{{ end }}
+  role="button"
+>
+  {{ .Inner }}
+</a>

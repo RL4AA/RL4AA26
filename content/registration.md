@@ -4,6 +4,22 @@ title: Registration
 
 ## How to Register
 
-Here’s where you provide instructions how to register for your conference. We used a Google Form and embedded it into an iframe (it’s commented out in the html here).
+We are very please to announce that we are able to wave the registration fee for all participants!
 
-Here’s another paragraph of filler text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim et est et euismod. Fusce et metus tempus, pellentesque ex at, convallis nulla. Ut fringilla commodo tincidunt. Fusce sed est eu massa placerat iaculis eu at mauris. Nullam ut mollis nisi, quis malesuada risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam ipsum tortor, suscipit non tincidunt vel, bibendum in libero. Nulla facilisi. Pellentesque vitae neque metus. Cras quis est pharetra, vestibulum nisl et, viverra ipsum. Etiam porta dignissim purus, quis tempor metus volutpat eu. Praesent pulvinar libero eget purus tincidunt finibus.
+To register, please follow the button below to access to Indico page for this workshop.
+
+Registration is not yet open. Please check back later.
+
+{{< button href="https://indico.scc.kit.edu/event/4216/overview" target="_self" >}}
+Go to registration!
+{{< /button >}}
+
+## Important Dates
+
+- Registration opens: 1st of June, 2025
+- Registration closes: 1st of August, 2025
+- Workshop: 1st - 3rd of September, 2025
+
+## Certificate of Attendance
+
+Let us know if you need a certificate of attendance. We will be happy to provide one for you.

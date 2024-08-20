@@ -16,9 +16,12 @@ menus:
     - name: Directions
       pageRef: /directions/
       weight: 40
-    - name: Flyer
-      pageRef: /flyer/
-      weight: 50
+    # - name: Flyer
+    #   pageRef: /flyer/
+    #   weight: 50
+    - name: Indico
+      url: https://indico.scc.kit.edu/event/4216/overview
+      weight: 60
 
 params:
   banner: /img/pexels-wolfgang-weiser-467045605-16916258_expanded_lowres.webp

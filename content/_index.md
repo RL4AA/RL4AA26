@@ -6,6 +6,8 @@ The workshop will bring together experts from the fields of machine learning, ac
 
 RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our best to make sure there is something for everyone, from introductory tutorials to advanced research talks.
 
+Note also that this year's workshop is organised in coordination with [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators (MaLAPA) workshop](https://indico.cern.ch/event/1382428/) at CERN. Both workshops are organised such that you can attend them one after the other.
+
 We are looking forward to welcoming you to Hamburg in 2025!
 
 ## Keynote Speakers
