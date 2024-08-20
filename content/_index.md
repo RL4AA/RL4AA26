@@ -40,7 +40,14 @@ We are the organisers of this workshop.
 
 ## Organising Institutions
 
-We are the institutions that are organising this conference.
+The following institutions are contributing to the organisation of this workshop.
+
+{{< instituteLogoList >}}
+{{< instituteLogo name="DESY" logo="img/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
+{{< instituteLogo name="KIT" logo="img/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
+{{< instituteLogo name="University of Salzburg" logo="img/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at/?lang=en" >}}
+{{< instituteLogo name="CERN" logo="img/CERN_logo.svg.png" link="https://home.cern" >}}
+{{< /instituteLogoList >}}
 
 ## Sponsors
 
