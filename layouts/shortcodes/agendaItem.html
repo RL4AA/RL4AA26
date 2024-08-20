@@ -1,0 +1,27 @@
+{{ $type := .Get "type" }}
+{{ if eq $type "keynote" }}
+  <table class="plenary">
+{{ else }}
+  <table>
+{{ end }}
+  <tr>
+    <td class="date" rowspan="3">{{ .Get "time" }}</td>
+    <td 
+      {{ if eq $type "break" }}
+        class="title-special"
+      {{ else }}
+        class="title"
+      {{ end }}
+    >{{ .Get "title" }}</td>
+  </tr>
+  {{ with .Get "location" }}
+    <tr>
+      <td class="speaker">{{ . }}</td>
+    </tr>
+  {{ end }}
+  <tr>
+    <td class="abstract">
+      {{ .Inner }}
+    </td>
+  </tr>
+</table>
