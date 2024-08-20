@@ -5,16 +5,16 @@ title: RL4AA'25
 menus:
   main:
     - name: Home
-      pageRef: /
+      url: /
       weight: 10
     - name: Registration
-      pageRef: /registration/
+      url: /registration/
       weight: 20
     - name: Program
-      pageRef: /program/
+      url: /program/
       weight: 30
     - name: Directions
-      pageRef: /directions/
+      url: /directions/
       weight: 40
     # - name: Flyer
     #   pageRef: /flyer/
