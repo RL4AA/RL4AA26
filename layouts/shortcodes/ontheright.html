@@ -1,0 +1,7 @@
+{{ $imageURL := .Get `src` }}
+{{ with resources.Get $imageURL }}
+  <img
+    src="{{ .Permalink }}"
+    style="width: 200px; float: right; margin-right: 50px; margin-left: 10px;"
+  />
+{{ end }}
