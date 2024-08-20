@@ -10,7 +10,11 @@ We are looking forward to welcoming you to Hamburg in 2025!
 
 ## Keynote Speakers
 
-We are the keynote speakers for this conference.
+We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
+
+{{< speaker name="Albert Einstein" position="Genius" institute="Princeton" image="img/albert_einstein.jpg" link="https://en.wikipedia.org/wiki/Albert_Einstein" >}}
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). His work is also known for its influence on the philosophy of science. He is best known to the general public for his mass–energy equivalence formula E = mc^2, which has been dubbed "the world's most famous equation". He received the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect", a pivotal step in the development of quantum theory.
+{{< /speaker >}}
 
 ## Impressions from RL4AA'24
 

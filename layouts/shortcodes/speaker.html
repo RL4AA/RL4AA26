@@ -1,0 +1,25 @@
+<table class="keynotes">
+  <tr>
+    <td class="keynote-image-cell">
+      {{ $name := .Get `name` }}
+      {{ $position := .Get `position` }}
+      {{ $institute := .Get `institute` }}
+      {{ $imageURL := .Get `image` }}
+      {{ with resources.Get $imageURL }}
+        <img
+          src="{{ .RelPermalink }}"
+          alt="{{ $name }}"
+          style="width: 70%; border-radius: 9999px"
+        /><br />
+      {{ end }}
+      <a href="{{ .Get `link` }}"><b>{{ .Get "name" }}</b></a>
+      <br />
+      <b>{{ .Get "position" }}</b>
+      <br />
+      {{ .Get "institute" }}
+    </td>
+    <td class="keynote-description-cell">
+      {{ .Inner }}
+    </td>
+  </tr>
+</table>
