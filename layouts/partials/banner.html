@@ -1,13 +1,14 @@
 <div class="banner">
-  {{ with resources.Get "banner.jpg" }}
+  {{ with resources.Get .Site.Params.banner }}
     <img src="{{ .RelPermalink }}" alt="Conference Template Banner" />
   {{ end }}
   <div class="top-left">
-    <span class="title1">Conference</span><span class="title2">Template</span>
-    <span class="year">2525</span>
+    <span class="title1">{{ .Site.Params.title.first }}</span
+    ><span class="title2">{{ .Site.Params.title.second }}</span>
+    <span class="year">{{ .Site.Params.title.year }}</span>
   </div>
   <div class="bottom-right">
-    June 31, 2525 <br />
-    University Name, and City Maybe
+    {{ .Site.Params.conferenceDate }} <br />
+    {{ .Site.Params.conferenceLocation }}
   </div>
 </div>
