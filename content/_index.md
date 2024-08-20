@@ -26,7 +26,17 @@ We are the impressions from the previous conference.
 
 ## Organising Committee
 
-We are the organisers of this conference.
+We are the organisers of this workshop.
+
+{{< organizerList >}}
+{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="img/annika_eichler.jpg" link="https://ai.desy.de/people/eichler.html" >}}
+{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="img/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
+{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="img/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
+{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="img/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
+{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="img/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="Karlsruhe Institute of Technology" image="img/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
+{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="img/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
+{{< /organizerList >}}
 
 ## Organising Institutions
 

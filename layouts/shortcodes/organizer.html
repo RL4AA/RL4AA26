@@ -1,0 +1,14 @@
+<div style="flex: 0; flex-basis: 160px; text-align: center">
+  {{ $name := .Get "name" }}
+  {{ $institute := .Get "institute" }}
+  {{ $imageURL := .Get "image" }}
+  {{ with resources.Get $imageURL }}
+    <img
+      src="{{ .RelPermalink }}"
+      alt="{{ $name }}"
+      style="width: 100%; border-radius: 9999px"
+    />
+  {{ end }}
+  <a href="{{ .Get `link` }}"><b>{{ .Get "name" }}</b></a> <br />
+  {{ .Get "institute" }}
+</div>
