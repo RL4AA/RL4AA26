@@ -1,14 +1,16 @@
 <div class="banner">
-  {{ with resources.Get .Site.Params.banner }}
-    <img src="{{ .RelPermalink }}" alt="Conference Banner" width="1000" />
-  {{ end }}
   <div class="top-left">
     <span class="title1">{{ .Site.Params.title.first }}</span
     ><span class="title2">{{ .Site.Params.title.second }}</span>
     <span class="year">{{ .Site.Params.title.year }}</span>
   </div>
-  <div class="bottom-right">
-    {{ .Site.Params.conferenceDate }} <br />
-    {{ .Site.Params.conferenceLocation }}
+  <div>
+    {{ with resources.Get .Site.Params.banner }}
+      <img src="{{ .RelPermalink }}" alt="Conference Banner" width="1000" />
+    {{ end }}
+    <div class="bottom-right">
+      {{ .Site.Params.conferenceDate }} <br />
+      {{ .Site.Params.conferenceLocation }}
+    </div>
   </div>
 </div>

@@ -21,10 +21,10 @@ menus:
       weight: 50
 
 params:
-  banner: /img/Marco-Annunziata-1970-Alfa-Romeo-GT-Junior-1-1200x628-5.jpg
+  banner: /img/pexels-wolfgang-weiser-467045605-16916258.jpg
   conferenceDate: 2 - 4 March 2025
   conferenceLocation: Deutsches Elektronen-Synchrotron DESY, Hamburg
   title:
-    first: RL4AA
+    first: 3rd RL4AA
     second: Workshop
     year: 2025
