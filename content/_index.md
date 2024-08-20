@@ -1,13 +1,29 @@
-## What is this website?
+## What is RL4AA'25?
 
-Alfa Romeo 1300 GT Junior
+RL4AA'25 is the third instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After two very successful workshops in 2023 and 2024 in Karlsruhe and Salzburg, we are excited to announce the next workshop for 2025. RL4AA'25 will be hosted by DESY in the beautiful port city of Hamburg, Germany.
 
-This website is a template that you could use for a (small) academic conference. It’s got a page for registration, where you can embed a Google Form or some other way for participants to register. It’s got a program page to list the schedule for the conference. It’s got a directions page to add a bunch of instructions how to get to the conference. It’s got a page to put up the flyers and other promotional materials for folks to download.
+The workshop will bring together experts from the fields of machine learning, accelerator physics, and high-performance computing to discuss the latest developments in the field of reinforcement learning for autonomous accelerators. The workshop will feature invited talks, contributed talks, and poster sessions, as well as a panel discussion on the future of autonomous accelerators.
 
-You can use this template by cloning all the files from this GitHub repo here. This template was created from a website I made for MathConnections 2019, in case you want to see an example of this template being used in the wild. [Here’s the link to that website](https://www.desy.de/).
+RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our best to make sure there is something for everyone, from introductory tutorials to advanced research talks.
 
-This paragraph is just some filler text to give the homepage some volume: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dignissim et est et euismod. Fusce et metus tempus, pellentesque ex at, convallis nulla. Ut fringilla commodo tincidunt. Fusce sed est eu massa placerat iaculis eu at mauris. Nullam ut mollis nisi, quis malesuada risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam ipsum tortor, suscipit non tincidunt vel, bibendum in libero. Nulla facilisi. Pellentesque vitae neque metus. Cras quis est pharetra, vestibulum nisl et, viverra ipsum. Etiam porta dignissim purus, quis tempor metus volutpat eu. Praesent pulvinar libero eget purus tincidunt finibus.
+We are looking forward to welcoming you to Hamburg in 2025!
 
-## Organisers
+## Keynote Speakers
+
+We are the keynote speakers for this conference.
+
+## Impressions from RL4AA'24
+
+We are the impressions from the previous conference.
+
+## Organising Committee
 
 We are the organisers of this conference.
+
+## Organising Institutions
+
+We are the institutions that are organising this conference.
+
+## Sponsors
+
+We are the sponsors of this conference.
