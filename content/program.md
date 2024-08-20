@@ -1,6 +1,6 @@
-+++
-title = 'Program'
-+++
+---
+title: Program
+---
 
 ## Conference Program
 

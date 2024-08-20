@@ -1,6 +1,6 @@
-+++
-title = 'Flyer'
-+++
+---
+title: Flyer
+---
 
 ## Flyer
 

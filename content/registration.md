@@ -1,6 +1,6 @@
-+++
-title = 'Registration'
-+++
+---
+title: Registration
+---
 
 ## How to Register
 
