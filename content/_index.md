@@ -1,6 +1,6 @@
 ## What is RL4AA'25?
 
-{{< ontheright src="/img/rl4aa_logo.png" >}}
+{{< ontheright src="logos/rl4aa_logo.png" >}}
 
 RL4AA'25 is the third instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After two very successful workshops in 2023 and 2024 in Karlsruhe and Salzburg, we are excited to announce the next workshop for 2025. RL4AA'25 will be hosted by DESY in the beautiful port city of Hamburg, Germany.
 
@@ -16,7 +16,7 @@ We are looking forward to welcoming you to Hamburg in 2025!
 
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
-{{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="img/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
+{{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="people/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
 Jan Peters is a professor at the Technical University of Darmstadt, Germany, and a researcher at the Max Planck Institute for Intelligent Systems. He has significantly advanced the understanding of machine learning, particularly in the area of robot learning and control. His work has focused on enabling robots to acquire new skills autonomously, leveraging techniques such as reinforcement learning and imitation learning. With a background in both engineering and computer science, Jan Peters has published extensively, earning recognition for his innovative approaches to making robots more adaptive and intelligent in dynamic environments. His influence extends through academia and industry, where his research has led to practical applications in robotics, enhancing the capabilities of intelligent systems across various sectors.
 {{< /speaker >}}
 
@@ -26,20 +26,35 @@ Stay tuned! We will announce our second keynote speaker soon.
 
 ## Impressions from RL4AA'24
 
-We are the impressions from the previous conference.
+Here are some impressions from the previous RL4AA workshop in Salzburg in February 2024. For more photos, we recommend visiting the [RL4AA'24 photo album](https://flic.kr/s/aHBqjBd84t).
+
+{{< gallery >}}
+{{< galleryImage src="rl4aa24/53511683394_3083ffd64e_o.jpg" >}}
+{{< galleryImage src="rl4aa24/53511344096_267f36c06a_o.jpg" >}}
+{{< galleryImage src="rl4aa24/DSC01375.jpg" >}}
+{{< galleryImage src="rl4aa24/rl4aa24-salzburg-2024_53510444597_o.jpg" >}}
+{{< galleryImage src="rl4aa24/53514712763_ce74a7b8f5_o.jpg" >}}
+{{< galleryImage src="rl4aa24/53514538911_114b5ac9e1_o.jpg" >}}
+{{< galleryImage src="rl4aa24/rl4aa24-salzburg-2024_53511345906_o.jpg" >}}
+{{< galleryImage src="rl4aa24/DSC01419.jpg" >}}
+{{< galleryImage src="rl4aa24/DSC01460.jpg" >}}
+{{< galleryImage src="rl4aa24/IMG_7011.jpg" >}}
+{{< galleryImage src="rl4aa24/IMG_7301.jpg" >}}
+{{< galleryImage src="rl4aa24/53511681839_c924431987_o.jpg" >}}
+{{< /gallery >}}
 
 ## Organising Committee
 
 We are the organisers of this workshop.
 
 {{< organizerList >}}
-{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="img/annika_eichler.jpg" link="https://ai.desy.de/people/eichler.html" >}}
-{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="img/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
-{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="img/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="img/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
-{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="img/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
-{{< organizer name="Andrea Santamaria Garcia" institute="Karlsruhe Institute of Technology" image="img/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
-{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="img/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
+{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://ai.desy.de/people/eichler.html" >}}
+{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
+{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
+{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
+{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="Karlsruhe Institute of Technology" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
+{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< /organizerList >}}
 
 ## Organising Institutions
@@ -47,11 +62,11 @@ We are the organisers of this workshop.
 The following institutions are contributing to the organisation of this workshop.
 
 {{< instituteLogoList >}}
-{{< instituteLogo name="DESY" logo="img/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
-{{< instituteLogo name="KIT" logo="img/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
-{{< instituteLogo name="University of Salzburg" logo="img/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
-{{< instituteLogo name="CERN" logo="img/CERN_logo.svg.png" link="https://home.cern" >}}
-{{< instituteLogo name="TUHH" logo="img/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
+{{< instituteLogo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
+{{< instituteLogo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
+{{< instituteLogo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
+{{< instituteLogo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
+{{< instituteLogo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
 {{< /instituteLogoList >}}
 
 ## Sponsors

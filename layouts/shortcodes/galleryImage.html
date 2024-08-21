@@ -1,0 +1,11 @@
+{{ $imageURL := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ with resources.Get $imageURL }}
+  <a href="{{ .RelPermalink }}" target="_blank">
+    <img
+      src="{{ .RelPermalink }}"
+      alt="{{ $alt }}"
+      style="flex: 0; max-height: 180px;"
+    />
+  </a>
+{{ end }}
