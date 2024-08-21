@@ -21,7 +21,7 @@ Jan Peters is a professor at the Technical University of Darmstadt, Germany, and
 {{< /speaker >}}
 
 {{< speaker name="TBD" position="Role" institute="Institute" image="img/cheetah_outlook_slide_wide.png" link="https://github.com/desy-ml/cheetah" >}}
-T.B.D.
+Stay tuned! We will announce our second keynote speaker soon.
 {{< /speaker >}}
 
 ## Impressions from RL4AA'24
