@@ -29,25 +29,25 @@ Stay tuned! We will announce our second keynote speaker soon.
 Here are some impressions from the previous RL4AA workshop in Salzburg in February 2024. For more photos, we recommend visiting the [RL4AA'24 photo album](https://flic.kr/s/aHBqjBd84t).
 
 {{< gallery >}}
-{{< galleryImage src="rl4aa24/53511683394_3083ffd64e_o.jpg" >}}
-{{< galleryImage src="rl4aa24/53511344096_267f36c06a_o.jpg" >}}
-{{< galleryImage src="rl4aa24/DSC01375.jpg" >}}
-{{< galleryImage src="rl4aa24/rl4aa24-salzburg-2024_53510444597_o.jpg" >}}
-{{< galleryImage src="rl4aa24/53514712763_ce74a7b8f5_o.jpg" >}}
-{{< galleryImage src="rl4aa24/53514538911_114b5ac9e1_o.jpg" >}}
-{{< galleryImage src="rl4aa24/rl4aa24-salzburg-2024_53511345906_o.jpg" >}}
-{{< galleryImage src="rl4aa24/DSC01419.jpg" >}}
-{{< galleryImage src="rl4aa24/DSC01460.jpg" >}}
-{{< galleryImage src="rl4aa24/IMG_7011.jpg" >}}
-{{< galleryImage src="rl4aa24/IMG_7301.jpg" >}}
-{{< galleryImage src="rl4aa24/53511681839_c924431987_o.jpg" >}}
+{{< gallery-image src="rl4aa24/53511683394_3083ffd64e_o.jpg" >}}
+{{< gallery-image src="rl4aa24/53511344096_267f36c06a_o.jpg" >}}
+{{< gallery-image src="rl4aa24/DSC01375.jpg" >}}
+{{< gallery-image src="rl4aa24/rl4aa24-salzburg-2024_53510444597_o.jpg" >}}
+{{< gallery-image src="rl4aa24/53514712763_ce74a7b8f5_o.jpg" >}}
+{{< gallery-image src="rl4aa24/53514538911_114b5ac9e1_o.jpg" >}}
+{{< gallery-image src="rl4aa24/rl4aa24-salzburg-2024_53511345906_o.jpg" >}}
+{{< gallery-image src="rl4aa24/DSC01419.jpg" >}}
+{{< gallery-image src="rl4aa24/DSC01460.jpg" >}}
+{{< gallery-image src="rl4aa24/IMG_7011.jpg" >}}
+{{< gallery-image src="rl4aa24/IMG_7301.jpg" >}}
+{{< gallery-image src="rl4aa24/53511681839_c924431987_o.jpg" >}}
 {{< /gallery >}}
 
 ## Organising Committee
 
 We are the organisers of this workshop.
 
-{{< organizerList >}}
+{{< organizer-list >}}
 {{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://ai.desy.de/people/eichler.html" >}}
 {{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
 {{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
@@ -55,19 +55,19 @@ We are the organisers of this workshop.
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
 {{< organizer name="Andrea Santamaria Garcia" institute="Karlsruhe Institute of Technology" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
-{{< /organizerList >}}
+{{< /organizer-list >}}
 
 ## Organising Institutions
 
 The following institutions are contributing to the organisation of this workshop.
 
-{{< instituteLogoList >}}
-{{< instituteLogo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
-{{< instituteLogo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
-{{< instituteLogo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
-{{< instituteLogo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
-{{< instituteLogo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
-{{< /instituteLogoList >}}
+{{< institute-logo-list >}}
+{{< institute-logo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
+{{< institute-logo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" >}}
+{{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
+{{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
+{{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
+{{< /institute-logo-list >}}
 
 ## Sponsors
 

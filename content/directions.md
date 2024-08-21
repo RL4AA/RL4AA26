@@ -11,7 +11,7 @@ Notkestraße 85
 22607 Hamburg
 Germany
 
-{{< googleMaps >}}
+{{< google-maps >}}
 
 <img class="center" src="/img/CSSB_Buidling_May2023_small.jpg" alt="This is just a kitten right now" id="kitten">
 
