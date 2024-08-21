@@ -13,9 +13,13 @@ Germany
 
 {{< google-maps >}}
 
+{{< pdf-viewer src="/gelaendeplan-eng-hh.pdf" >}}
+
 <img class="center" src="/img/CSSB_Buidling_May2023_small.jpg" alt="This is just a kitten right now" id="kitten">
 
 {{< figure src="/img/CSSB_Buidling_May2023_small.jpg" alt="CSSB" caption="CSSB building." >}}
+
+{{< figure src="/img/IMG_6187_v1_K1.jpg" alt="CSSB Hörsaal" caption="CSSB Hörsaal." >}}
 
 ![](/img/CSSB_Buidling_May2023_small.jpg)
 

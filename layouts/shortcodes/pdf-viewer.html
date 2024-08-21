@@ -1,0 +1,8 @@
+{{ $pdfURL := .Get `src` }}
+{{ with resources.Get $pdfURL }}
+  <iframe
+    src="{{ .RelPermalink }}"
+    frameborder="0"
+    style="margin-left: 100px; width: 800px; height: 600px;"
+  ></iframe>
+{{ end }}

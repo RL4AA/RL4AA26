@@ -10,7 +10,7 @@
   {{- $target := .Get "target" | default "_blank" }}
   {{- $nozoom := .Get "nozoom" | default false -}}
 
-  <figure>
+  <figure style="margin-left: 100px">
   {{- with $href }}<a href="{{ . }}" {{ with $target }}target="{{ . }}"{{ end }}>{{ end -}}
   {{- if findRE "^https?" $url.Scheme }}
       <img class="my-0 rounded-md{{ with $nozoom }} nozoom{{ end }}{{ with $class }} {{ . }}{{ end }}" src="{{ $url.String }}" alt="{{ $altText }}" />
