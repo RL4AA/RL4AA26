@@ -54,4 +54,4 @@ To view your changes locally, simply save the files. If `hugo server` is running
 
 To set the website to public, go to the repository settings, then the "Pages" section, set the "Branch" to `gh-pages` and click "Save". The website will be available at [`https://rl4aa.github.io/RL4AA25/`](https://rl4aa.github.io/RL4AA25/).
 
-To set the website to private, go to the repository settings, then the "Pages" section, and set the "Branch" to `None`. The website will no longer be available.
+To set the website to private, go to the repository settings, then the "Pages" section, set the "Branch" to `None` and click "Save". The website will no longer be available.
