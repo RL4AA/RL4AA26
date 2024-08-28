@@ -71,9 +71,11 @@ The following institutions are contributing to the organisation of this workshop
 
 ## Sponsors
 
-These sponsors are generously supporting the RL4AA'25 workshop and enabling use to wave the registration fees for all participants.
+These sponsors are generously supporting the RL4AA'25 workshop.
 
 {{< institute-logo-list >}}
 {{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" >}}
 {{< institute-logo name="HAW" logo="logos/Hochschule_für_Angewandte_Wissenschaften_Hamburg_logo.svg.png" link="https://www.haw-hamburg.de" >}}
 {{< /institute-logo-list >}}
+
+_Unterstützt durch die Akademie der Wissenschaften in Hamburg, finanziert durch die Altonaer Stiftung für philosophische Grundlagenforschung._

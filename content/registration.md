@@ -16,10 +16,10 @@ Go to registration!
 
 ## Important Dates
 
-- Registration opens: 1st of June, 2025
-- Registration closes: 1st of August, 2025
-- Workshop: 1st - 3rd of September, 2025
+- Registration opens: TBA
+- Registration closes: TBA
+- Workshop: 2 - 4 April, 2025
 
 ## Certificate of Attendance
 
-Let us know if you need a certificate of attendance. We will be happy to provide one for you.
+If you require a certificate of attendance, please contact us at [rl4aa@desy.de](mailto:rl4aa@desy.de) after the workshop.
