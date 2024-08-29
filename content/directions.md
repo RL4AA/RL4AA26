@@ -26,10 +26,10 @@ The following campus map highlights all relevant locations on the DESY campus.
 Here are some impressions of the CSSB building on the DESY campus and the lecture hall where the workshop will take place.
 
 {{< gallery >}}
-{{< gallery-image src="/img/CSSB_WH1772_1133_02-1440x960.jpg" maxHeight="297px" >}}
-{{< gallery-image src="/img/Screenshot 2024-08-28 at 14.18.39.png" maxHeight="297px" >}}
-{{< gallery-image src="/img/CSSB_WH1772_2830_48_14.jpg" maxHeight="297px" >}}
-{{< gallery-image src="/img/CSSB_WH1772_2283_90_10.jpg" maxHeight="297px" >}}
+{{< gallery-image src="/img/IMG_6576.jpg" maxHeight="297px" >}}
+{{< gallery-image src="/img/IMG_6566.jpg" maxHeight="297px" >}}
+{{< gallery-image src="/img/IMG_6562.jpg" maxHeight="297px" >}}
+{{< gallery-image src="/img/IMG_6542.jpg" maxHeight="297px" >}}
 {{< /gallery >}}
 
 ## How to Reach DESY

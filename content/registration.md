@@ -18,7 +18,7 @@ Go to registration!
 
 - Registration opens: TBA
 - Registration closes: TBA
-- Workshop: 2 - 4 April, 2025
+- Workshop: 2 - 4 April 2025
 
 ## Certificate of Attendance
 
