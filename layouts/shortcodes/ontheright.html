@@ -1,7 +1,11 @@
 {{ $imageURL := .Get `src` }}
+{{ $invert := default "false" (.Get "invert") }}
 {{ with resources.Get $imageURL }}
   <img
     src="{{ .Permalink }}"
     style="width: 200px; float: right; margin-right: 50px; margin-left: 10px;"
+    {{ if eq $invert "true" }}
+      class="switch-logo-dark-to-white"
+    {{ end }}
   />
 {{ end }}

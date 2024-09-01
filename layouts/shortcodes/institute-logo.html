@@ -1,8 +1,16 @@
 {{ $name := .Get "name" }}
 {{ $logoURL := .Get "logo" }}
 {{ $link := .Get "link" }}
+{{ $invert := default "false" (.Get "invert") }}
 <a href="{{ $link }}" style="flex: 1; flex-basis: 160px;">
   {{ with resources.Get $logoURL }}
-    <img src="{{ .RelPermalink }}" alt="{{ $name }}" style="width: 100%;" />
+    <img
+      src="{{ .RelPermalink }}"
+      alt="{{ $name }}"
+      style="width: 100%;"
+      {{ if eq $invert "true" }}
+        class="switch-logo-dark-to-white"
+      {{ end }}
+    />
   {{ end }}
 </a>
