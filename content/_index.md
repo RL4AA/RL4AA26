@@ -67,7 +67,7 @@ The following institutions are contributing to the organisation of this workshop
 {{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" flex="1.4" >}}
 {{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
 {{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" flex="1.2" >}}
-{{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="true" >}}
+{{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="false" >}}
 {{< /institute-logo-list >}}
 
 ## Sponsors
