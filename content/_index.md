@@ -52,7 +52,7 @@ We are the organisers of this workshop.
 {{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
 {{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
 {{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Andrea Santamaria Garcia" institute="Karlsruhe Institute of Technology" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
 {{< /organizer-list >}}
@@ -63,10 +63,11 @@ The following institutions are contributing to the organisation of this workshop
 
 {{< institute-logo-list >}}
 {{< institute-logo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
-{{< institute-logo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" invert="true" >}}
-{{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" >}}
+{{< institute-logo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" invert="true" flex="1.4" >}}
+{{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" flex="1.4" >}}
 {{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
-{{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" >}}
+{{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" flex="1.2" >}}
+{{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="true" >}}
 {{< /institute-logo-list >}}
 
 ## Sponsors
@@ -77,7 +78,6 @@ These sponsors are generously supporting the RL4AA'25 workshop.
 {{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" >}}
 {{< institute-logo name="HAW" logo="logos/Hochschule_für_Angewandte_Wissenschaften_Hamburg_logo.svg.png" link="https://www.haw-hamburg.de" >}}
 {{< institute-logo name="CSSB" logo="logos/CSSB logo.png" link="https://www.cssb-hamburg.de" >}}
-
 {{< /institute-logo-list >}}
 
 _Unterstützt durch die Akademie der Wissenschaften in Hamburg, finanziert durch die Altonaer Stiftung für philosophische Grundlagenforschung._

@@ -2,7 +2,8 @@
 {{ $logoURL := .Get "logo" }}
 {{ $link := .Get "link" }}
 {{ $invert := default "false" (.Get "invert") }}
-<a href="{{ $link }}" style="flex: 1; flex-basis: 160px;">
+{{ $flex := default "1" (.Get "flex") }}
+<a href="{{ $link }}" style="flex: {{ $flex }};">
   {{ with resources.Get $logoURL }}
     <img
       src="{{ .RelPermalink }}"
