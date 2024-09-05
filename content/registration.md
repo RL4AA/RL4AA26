@@ -16,8 +16,8 @@ Go to registration!
 
 ## Important Dates
 
-- Registration opens: TBA
-- Registration closes: TBA
+- Abstract submission deadline: 24 January 2025
+- Registration closes: 19 March 2025
 - Workshop: 2 - 4 April 2025
 
 ## Certificate of Attendance
