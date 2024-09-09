@@ -76,9 +76,9 @@ These sponsors are generously supporting the RL4AA'25 workshop.
 
 {{< institute-logo-list >}}
 {{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" flex="1.3" >}}
-{{< institute-logo name="HAW" logo="logos/go-2-prof-in_16zu9_mit_HAW_Logo.jpg" link="https://www.haw-hamburg.de" flex="1.3" >}}
-{{< institute-logo name="HAW" logo="logos/BMBF_gefördert vom_deutsch.jpg" link="https://www.bmbf.de" flex="1.2" >}}
-{{< institute-logo name="HAW" logo="logos/BWFG_B_deu_HKS.jpg" link="https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wissenschaft-forschung-gleichstellung-und-bezirke" flex="1.8" >}}
+{{< institute-logo name="Go2Prof" logo="logos/go-2-prof-in_16zu9_mit_HAW_Logo.jpg" link="https://www.haw-hamburg.de" flex="1.3" >}}
+{{< institute-logo name="BMBF" logo="logos/BMBF_gefördert vom_deutsch.jpg" link="https://www.bmbf.de" flex="1.2" >}}
+{{< institute-logo name="BWFG" logo="logos/BWFG_B_deu_HKS.jpg" link="https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wissenschaft-forschung-gleichstellung-und-bezirke" flex="1.8" >}}
 {{< institute-logo name="CSSB" logo="logos/CSSB logo.png" link="https://www.cssb-hamburg.de" flex="1.6" >}}
 {{< /institute-logo-list >}}
 
