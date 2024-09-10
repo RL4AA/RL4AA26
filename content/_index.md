@@ -68,6 +68,7 @@ The following institutions are contributing to the organisation of this workshop
 {{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
 {{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" flex="1.2" >}}
 {{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="false" >}}
+{{< institute-logo name="Cockcroft Institute" logo="logos/Cockcroft_logo_text.png" link="https://www.cockcroft.ac.uk" invert="true" flex="1.3" >}}
 {{< /institute-logo-list >}}
 
 ## Sponsors
