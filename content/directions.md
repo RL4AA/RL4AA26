@@ -65,7 +65,7 @@ If you are arriving via the A7 motorway, take the exit "Bahrenfeld", then follow
 
 ## Hotels
 
-A limited number of rooms are available at the DESY guest house directly on campus. For more information and booking, please contact visit [https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html](https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html).
+A limited number of rooms are available at the DESY guest house directly on campus. For more information and booking, please visit [https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html](https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html).
 
 Alternatively, there are several hotels in the vicinity of DESY or with good connections to DESY by public transport. Here are some options:
 
