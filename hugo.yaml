@@ -11,7 +11,7 @@ menus:
       pageRef: /registration/
       weight: 20
     - name: Program
-      url: https://indico.scc.kit.edu/event/4216/timetable/#20250402
+      url: https://indico.scc.kit.edu/event/4216/timetable/#all
       weight: 30
     - name: Directions
       pageRef: /directions/
