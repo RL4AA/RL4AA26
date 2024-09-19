@@ -10,7 +10,7 @@ To register, please follow the button below to access to Indico page for this wo
 
 Registration is not yet open. Please check back later.
 
-{{< button href="https://indico.scc.kit.edu/event/4216/overview" target="_self" >}}
+{{< button href="https://indico.scc.kit.edu/event/4216/registrations/" target="_self" >}}
 Go to registration!
 {{< /button >}}
 
