@@ -10,15 +10,14 @@ RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our 
 
 Note also that this year's workshop is organised in coordination with [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators (MaLAPA) workshop](https://indico.cern.ch/event/1382428/) at CERN. Both workshops are organised such that you can attend them one after the other.
 
-We are looking forward to welcoming you to Hamburg in 2025!
+We are looking forward to welcoming you to Hamburg!
 
 ## Keynote Speakers
 
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
 {{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="people/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
-Jan Peters is a professor of Intelligent Autonomous Systems at Technische Universität Darmstadt and head of the Department of Systems AI for Robot Learning at the German Research Centre for Artificial Intelligence.
-Having received diplomas in computer science and electrical engineering from University of Hagen and TU München, as well as an M.Sc. in Computer Science with a focus on Machine Learning and an M.Sc. in Aerospace and Mechanical Engineering with a major in nonlinear dynamics from the University of Southern California, Jan Peters earned his Ph.D. in computer science from the University of Southern California in 2007. Recognised with numerous awards, his work focuses on autonomous robotics using machine learning methods such as reinforcement learning, teaching robots human motor skills, such as juggling, table tennis, grasping and locomotion through computational models of learning and control.
+Autonomous robots that can assist humans in situations of daily life have been a long-standing vision of robotics, artificial intelligence, and cognitive sciences. A first step towards this goal is to create robots that can learn tasks triggered by environmental context or higher level instruction. However, learning techniques have yet to live up to this promise as only few methods manage to scale to high-dimensional manipulator or humanoid robots. In this talk, we investigate a general framework suitable for learning motor skills in robotics which is based on the principles behind many analytical robotics approaches. To accomplish robot reinforcement learning from just few trials, the learning system can no longer explore all learn-able solutions but has to prioritize one solution over others – independent of the observed data. Such prioritization requires explicit or implicit assumptions, often called ‘induction biases’ in machine learning. Extrapolation to new robot learning tasks requires induction biases deeply rooted in general principles and domain knowledge from robotics, physics and control. Empirical evaluations on a several robot systems illustrate the effectiveness and applicability to learning control on an anthropomorphic robot arm. These robot motor skills range from toy examples (e.g., paddling a ball, ball-in-a-cup) to playing robot table tennis, juggling and manipulation of various objects.
 {{< /speaker >}}
 
 {{< speaker name="TBD" position="Role" institute="Institute" image="img/cheetah_outlook_slide_wide.png" link="https://github.com/desy-ml/cheetah" >}}
@@ -70,6 +69,7 @@ The following institutions are contributing to the organisation of this workshop
 {{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" flex="1.2" >}}
 {{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="false" >}}
 {{< institute-logo name="Cockcroft Institute" logo="logos/Cockcroft_logo_text.png" link="https://www.cockcroft.ac.uk" invert="true" flex="1.3" >}}
+{{< institute-logo name="IDALAB" logo="logos/idalab_logo.png" link="https://www.plus.ac.at/aihi/der-fachbereich/ida-lab/" invert="true" flex="1.4" >}}
 {{< /institute-logo-list >}}
 
 ## Sponsors
