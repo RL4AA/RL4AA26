@@ -82,6 +82,7 @@ These sponsors are generously supporting the RL4AA'25 workshop.
 {{< institute-logo name="BMBF" logo="logos/BMBF_gefördert vom_deutsch.jpg" link="https://www.bmbf.de" flex="1.2" >}}
 {{< institute-logo name="BWFG" logo="logos/BWFG_B_deu_HKS.jpg" link="https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wissenschaft-forschung-gleichstellung-und-bezirke" flex="1.8" >}}
 {{< institute-logo name="CSSB" logo="logos/CSSB logo.png" link="https://www.cssb-hamburg.de" flex="1.6" >}}
+{{< institute-logo name="DASHH" logo="logos/dashh_logo_cropped.png" link="https://www.dashh.org" flex="1.8" >}}
 {{< /institute-logo-list >}}
 
 _Unterstützt durch die Akademie der Wissenschaften in Hamburg, finanziert durch die Altonaer Stiftung für philosophische Grundlagenforschung._
