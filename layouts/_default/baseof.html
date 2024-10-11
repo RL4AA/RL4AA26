@@ -1,10 +1,29 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-7VVWB6VB64"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-7VVWB6VB64");
+    </script>
     <base href="." />
     <link rel="shortcut icon" type="image/png" href="favicon.png" />
     {{ with resources.Get "styles.css" }}
-      <link rel="stylesheet" type="text/css" media="all" href="{{ .RelPermalink }}" />
+      <link
+        rel="stylesheet"
+        type="text/css"
+        media="all"
+        href="{{ .RelPermalink }}"
+      />
     {{ end }}
     <meta name="description" content="Conference Template" />
     <meta name="resource-type" content="document" />
@@ -18,7 +37,7 @@
     {{ partial "navigation.html" . }}
 
     {{ block "main" . }}
-    <!-- The part of the page that begins to differ between templates -->
+      <!-- The part of the page that begins to differ between templates -->
     {{ end }}
 
     {{ partial "footer.html" . }}
