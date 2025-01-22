@@ -1,3 +1,10 @@
+---
+---
+
+{{< attention-box color="#339933" href="https://indico.scc.kit.edu/event/4216/abstracts/" >}}
+**Call for abstracts extended!** New deadline: 7 February 2025.
+{{< /attention-box >}}
+
 ## What is RL4AA'25?
 
 {{< ontheright src="logos/rl4aa_logo.png" invert="true" >}}
