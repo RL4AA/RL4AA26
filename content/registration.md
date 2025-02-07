@@ -16,7 +16,7 @@ Go to registration!
 
 ## Important Dates
 
-- **Abstract submission deadline:** 7 February 2025
+- **Abstract submission deadline:** 14 February 2025
 - **Registration closes:** 7 March 2025
 - **Workshop:** 2 - 4 April 2025
 
