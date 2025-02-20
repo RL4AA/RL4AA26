@@ -8,8 +8,6 @@ We are very please to announce that we are able to wave the registration fee for
 
 To register, please follow the button below to access to Indico page for this workshop.
 
-Registration is not yet open. Please check back later.
-
 {{< button href="https://indico.scc.kit.edu/event/4216/registrations/" target="_self" >}}
 Go to registration!
 {{< /button >}}
