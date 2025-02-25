@@ -67,6 +67,10 @@ If you are arriving via the A7 motorway, take the exit "Bahrenfeld", then follow
 
 A limited number of rooms are available at the DESY guest house directly on campus. For more information and booking, please visit [https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html](https://welcome-services.desy.de/hostel_in_hamburg/index_eng.html).
 
+{{< attention-box color="#c03a2b" >}}
+**NOTE:** The DESY guest house is fully booked for the workshop dates. Please consider alternative accommodation options.
+{{< /attention-box >}}
+
 Alternatively, there are several hotels in the vicinity of DESY or with good connections to DESY by public transport. Here are some options:
 
 - [Mercure Hotel Hamburg am Volkspark](https://all.accor.com/hotel/1659/index.de.shtml) (0.5 km)
