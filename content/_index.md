@@ -79,9 +79,9 @@ The following institutions are contributing to the organisation of this workshop
 {{< institute-logo name="IDALAB" logo="logos/idalab_logo.png" link="https://www.plus.ac.at/aihi/der-fachbereich/ida-lab/" invert="true" flex="1.4" >}}
 {{< /institute-logo-list >}}
 
-## Sponsors
+## Funding
 
-These sponsors are generously supporting the RL4AA'25 workshop.
+These 3rd parties are generously supporting the RL4AA'25 workshop with funding.
 
 {{< institute-logo-list >}}
 {{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" flex="1.3" >}}
