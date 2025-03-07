@@ -81,7 +81,7 @@ The following institutions are contributing to the organisation of this workshop
 
 ## Funding
 
-These 3rd parties are generously supporting the RL4AA'25 workshop with funding.
+These 3rd parties are generously supporting the RL4AA'25 workshop.
 
 {{< institute-logo-list >}}
 {{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" flex="1.3" >}}
