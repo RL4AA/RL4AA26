@@ -1,10 +1,6 @@
 ---
 ---
 
-{{< attention-box color="#339933" href="https://indico.scc.kit.edu/event/4216/abstracts/" >}}
-**We still accept poster abstracts until 7 March to encourage discussions during the workshop.**
-{{< /attention-box >}}
-
 ## What is RL4AA'25?
 
 {{< ontheright src="logos/rl4aa_logo.png" invert="true" >}}
