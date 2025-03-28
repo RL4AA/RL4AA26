@@ -19,7 +19,7 @@ The main entrance to the DESY campus is highlighted in the map below.
 
 The following campus map highlights all relevant locations on the DESY campus.
 
-{{< pdf-viewer src="/gelaendeplan-eng-hh.pdf" >}}
+{{< pdf-viewer src="/gelaendeplan-eng-hh-annotated.pdf" >}}
 
 #### Venue Impressions
 
