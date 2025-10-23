@@ -1,11 +1,11 @@
 ---
 ---
 
-## What is RL4AA'25?
+## What is RL4AA'26?
 
 {{< ontheright src="logos/rl4aa_logo.png" invert="true" >}}
 
-RL4AA'25 is the third instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After two very successful workshops in 2023 and 2024 in Karlsruhe and Salzburg, we are excited to announce the next workshop for 2025. RL4AA'25 will be hosted by DESY in the beautiful port city of Hamburg, Germany.
+RL4AA'26 is the fourth instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After three very successful workshops in 2023, 2024 and 2025 in Karlsruhe, Salzburg and Hamburg, we are excited to announce the next workshop for 2026. RL4AA'26 will be hosted by the University of Liverpool in the beautiful port city of - you guessed it - Liverpool, UK.
 
 The workshop will bring together experts from the fields of machine learning, accelerator physics, and high-performance computing to discuss the latest developments in the field of reinforcement learning for autonomous accelerators. The workshop will feature invited talks, contributed talks, and poster sessions, as well as a panel discussion on the future of autonomous accelerators.
 
@@ -31,28 +31,40 @@ Subsequently, we will explore how traditional control methods can be integrated 
 Finally, we will touch upon some current open challenges, including real-time implementation constraints, interpretability of learned policies, and scalability, while highlighting directions for future research.
 {{< /speaker >}}
 
-## Impressions from RL4AA'24
+## Impressions from RL4AA'25
 
-Here are some impressions from the previous RL4AA workshop in Salzburg in February 2024. For more photos, we recommend visiting the [RL4AA'24 photo album](https://flic.kr/s/aHBqjBd84t).
+Here are some impressions from the previous RL4AA workshop in Hamburg in April 2025. For more photos, we recommend visiting the [RL4AA'25 photo album](https://syncandshare.desy.de/index.php/apps/photos/public/V8uIm38LZFVRfYGMmMRa6Hh32PUH431n).
 
 {{< gallery >}}
-{{< gallery-image src="rl4aa24/53511683394_3083ffd64e_o.jpg" >}}
-{{< gallery-image src="rl4aa24/53511344096_267f36c06a_o.jpg" >}}
-{{< gallery-image src="rl4aa24/DSC01375.jpg" >}}
-{{< gallery-image src="rl4aa24/rl4aa24-salzburg-2024_53510444597_o.jpg" >}}
-{{< gallery-image src="rl4aa24/53514712763_ce74a7b8f5_o.jpg" >}}
-{{< gallery-image src="rl4aa24/53514538911_114b5ac9e1_o.jpg" >}}
-{{< gallery-image src="rl4aa24/rl4aa24-salzburg-2024_53511345906_o.jpg" >}}
-{{< gallery-image src="rl4aa24/DSC01419.jpg" >}}
-{{< gallery-image src="rl4aa24/DSC01460.jpg" >}}
-{{< gallery-image src="rl4aa24/IMG_7011.jpg" >}}
-{{< gallery-image src="rl4aa24/IMG_7301.jpg" >}}
-{{< gallery-image src="rl4aa24/53511681839_c924431987_o.jpg" >}}
+{{< gallery-image src="rl4aa25/_A743124_Large.jpeg" >}}
+{{< gallery-image src="rl4aa25/_A742763.jpg" >}}
+{{< gallery-image src="rl4aa25/_A742820.jpeg" >}}
+{{< gallery-image src="rl4aa25/DSC05641.jpg" >}}
+{{< gallery-image src="rl4aa25/_A742645.jpg" >}}
+{{< gallery-image src="rl4aa25/_A742278.jpg" >}}
+{{< gallery-image src="rl4aa25/_A743226_Large.jpeg" >}}
+{{< gallery-image src="rl4aa25/DSC05670.jpg" >}}
+{{< gallery-image src="rl4aa25/DSC05830_Large.jpeg" >}}
+{{< gallery-image src="rl4aa25/DSC05736.jpg" >}}
+{{< gallery-image src="rl4aa25/DSC05759_Large.jpeg" >}}
+{{< gallery-image src="rl4aa25/_A743138_Large.jpeg" >}}
 {{< /gallery >}}
 
-## Organising Committee
+## Scientific Organising Committee
 
-We are the organisers of this workshop.
+<!-- We are the organisers of this workshop. -->
+
+{{< organizer-list >}}
+{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}
+{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
+{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
+{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
+{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
+{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< /organizer-list >}}
+
+## Local Organising Committee
 
 {{< organizer-list >}}
 {{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}

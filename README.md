@@ -1,6 +1,6 @@
-# RL4AA'25 Website
+# RL4AA'26 Website
 
-This is the repository for the website of the 3rd RL4AA workshop (RL4AA'25) to be held at DESY in Hamburg on 2-4 April 2025.
+This is the repository for the website of the 4th RL4AA workshop (RL4AA'26) to be held at the University of Liverpool, UK on 30 March - 1 April 2026.
 
 ## View the website offline
 
@@ -30,7 +30,7 @@ Once you have Hugo installed, you can clone this repository and run the followin
 hugo server
 ```
 
-This will start a local web server that you can access in your browser at [`http://localhost:1313/RL4AA25/`](http://localhost:1313/RL4AA25/).
+This will start a local web server that you can access in your browser at [`http://localhost:1313/RL4AA26/`](http://localhost:1313/RL4AA26/).
 
 ## Editing content
 
@@ -52,6 +52,6 @@ To view your changes locally, simply save the files. If `hugo server` is running
 
 ## Toggle website public/private
 
-To set the website to public, go to the repository settings, then the "Pages" section, set the "Branch" to `gh-pages` and click "Save". The website will be available at [`https://rl4aa.github.io/RL4AA25/`](https://rl4aa.github.io/RL4AA25/).
+To set the website to public, go to the repository settings, then the "Pages" section, set the "Branch" to `gh-pages` and click "Save". The website will be available at [`https://rl4aa.github.io/RL4AA26/`](https://rl4aa.github.io/RL4AA26/).
 
 To set the website to private, go to the repository settings, then the "Pages" section, set the "Branch" to `None` and click "Save". The website will no longer be available.

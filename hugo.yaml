@@ -1,6 +1,6 @@
-baseURL: https://rl4aa.github.io/RL4AA25/
+baseURL: https://rl4aa.github.io/RL4AA26/
 languageCode: en-uk
-title: RL4AA'25
+title: RL4AA'26
 
 menus:
   main:
@@ -11,7 +11,7 @@ menus:
       pageRef: /registration/
       weight: 20
     - name: Program
-      url: https://indico.scc.kit.edu/event/4216/timetable/#all
+      url: https://indico.ph.liv.ac.uk/event/2025/timetable/#all
       weight: 30
     - name: Directions
       pageRef: /directions/
@@ -20,14 +20,14 @@ menus:
     #   pageRef: /flyer/
     #   weight: 50
     - name: Indico
-      url: https://indico.scc.kit.edu/event/4216/overview
+      url: https://indico.ph.liv.ac.uk/event/2025/overview
       weight: 60
 
 params:
-  banner: /img/pexels-wolfgang-weiser-467045605-16916258_expanded_lowres.webp
-  conferenceDate: 2 - 4 April 2025
-  conferenceLocation: Deutsches Elektronen-Synchrotron DESY, Hamburg
+  banner: /img/VG&M Exterior 51 extended lowres.jpg
+  conferenceDate: 30 March - 1 April 2026
+  conferenceLocation: University of Liverpool, UK
   title:
-    first: 3rd RL4AA
+    first: 4th RL4AA
     second: Workshop
-    year: 2025
+    year: 2026
