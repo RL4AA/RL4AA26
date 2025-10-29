@@ -38,7 +38,7 @@ Liverpool{{< break >}}
 L69 7ZP{{< break >}}
 UK_
 
-The 502 building is highlighted in the map below.
+The 502 Teaching Hub is highlighted in the map below.
 
 {{< google-maps >}}
 
