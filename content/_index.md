@@ -20,11 +20,11 @@ We are looking forward to welcoming you to Liverpool in 2026!
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
 {{< speaker name="Samuele Tosatto" position="Assistant Professor" institute="University of Innsbruck" image="people/samuele_tossato.jpg" link="https://samueletosatto.online/" >}}
-Talk description to be coming soon!
+Talk description coming soon!
 {{< /speaker >}}
 
 {{< speaker name="TBA" position="-" institute="-" image="people/tbd.svg" link="" >}}
-Talk description to be coming soon!
+Talk description coming soon!
 {{< /speaker >}}
 
 ## Impressions from RL4AA'25
