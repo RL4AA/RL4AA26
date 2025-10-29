@@ -11,16 +11,16 @@ The workshop will bring together experts from the fields of machine learning, ac
 
 RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our best to make sure there is something for everyone, from introductory tutorials to advanced research talks.
 
-Note also that this year's workshop is organised in coordination with [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators (MaLAPA) workshop](https://indico.cern.ch/event/1382428/) at CERN. Both workshops are organised such that you can attend them one after the other.
+**This event is free to attend, but spaces are limited. We encourage you to register early to secure your spot.**
 
-We are looking forward to welcoming you to Hamburg!
+We are looking forward to welcoming you to Liverpool in 2026!
 
 ## Keynote Speakers
 
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
-{{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="people/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
-Autonomous robots that can assist humans in situations of daily life have been a long-standing vision of robotics, artificial intelligence, and cognitive sciences. A first step towards this goal is to create robots that can learn tasks triggered by environmental context or higher level instruction. However, learning techniques have yet to live up to this promise as only few methods manage to scale to high-dimensional manipulator or humanoid robots. In this talk, we investigate a general framework suitable for learning motor skills in robotics which is based on the principles behind many analytical robotics approaches. To accomplish robot reinforcement learning from just few trials, the learning system can no longer explore all learn-able solutions but has to prioritize one solution over others – independent of the observed data. Such prioritization requires explicit or implicit assumptions, often called ‘induction biases’ in machine learning. Extrapolation to new robot learning tasks requires induction biases deeply rooted in general principles and domain knowledge from robotics, physics and control. Empirical evaluations on a several robot systems illustrate the effectiveness and applicability to learning control on an anthropomorphic robot arm. These robot motor skills range from toy examples (e.g., paddling a ball, ball-in-a-cup) to playing robot table tennis, juggling and manipulation of various objects.
+{{< speaker name="Samuele Tosatto" position="Assistant Professor at the University of Innsbruck" institute="University of Innsbruck" image="people/samuele_tossato.jpg" link="https://samueletosatto.online/" >}}
+Talk description to be added!
 {{< /speaker >}}
 
 {{< speaker name="Alessandro Pau" position="Research Scientist" institute="Swiss Plasma Center - EPFL" image="people/alessandro_pau.png" link="https://www.linkedin.com/in/alessandro-pau-a46916ba/?originalSubdomain=ch" >}}
@@ -55,25 +55,22 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 <!-- We are the organisers of this workshop. -->
 
 {{< organizer-list >}}
-{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
 {{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
 {{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Joel Axel Wulff" institute="CERN" image="people/tbd.svg" link="https://www.linkedin.com/in/joel-wulff-8b840294/" >}}
 {{< /organizer-list >}}
 
 ## Local Organising Committee
 
 {{< organizer-list >}}
-{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}
-{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
-{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
-{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
 {{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
-{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
-{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Alexander Brynes" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
+{{< organizer name="Amelia Pollard" institute="ASTeC, STFC" image="people/amelia_pollard.jpg" link="https://www.linkedin.com/in/amylizzlep/" >}}
+
 {{< /organizer-list >}}
 
 ## Organising Institutions
