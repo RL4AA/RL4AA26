@@ -153,7 +153,7 @@ Hard Days Night Hotel Liverpool is a unique, Beatles-themed boutique hotel situa
 {{< gallery-image src="/img/CI-entrance2.jpg" maxHeight="600px" >}}
 {{< /gallery >}}
 
-**On Wednesday, 1 April 2025, the conference sessions will take place at the Cockcroft Institute, followed by a guided tour of the Daresbury Laboratory.**
+**On Wednesday, 1 April 2026, the conference sessions will take place at the Cockcroft Institute, followed by a guided tour of the Daresbury Laboratory.**
 
 Coach transportation will be provided to and from Daresbury. More information will follow shortly.
 
