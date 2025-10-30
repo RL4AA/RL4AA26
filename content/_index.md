@@ -5,15 +5,27 @@
 
 {{< ontheright src="logos/rl4aa_logo.png" invert="true" >}}
 
-RL4AA'26 is the fourth instalment of the workshop series organised by the [Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/). After three very successful workshops in 2023, 2024 and 2025 in Karlsruhe, Salzburg and Hamburg, we are excited to announce the next workshop for 2026. RL4AA'26 will be hosted by the University of Liverpool in the beautiful port city of - you guessed it - Liverpool, UK.
+We are pleased to announce RL4AA'26, the fourth workshop of the series organised by the **[Reinforcement Learning for Autonomous Accelerators (RL4AA) Collaboration](https://rl4aa.github.io/)**. After three very successful workshops (**KIT** in 2023, **Salzburg** in 2024, and **DESY** in 2025) RL4AA'26 will be hosted as a **[LIV.INNO](https://livinno.org)** Workshop on Reinforcement Learning for Autonomous Accelerators by the University of Liverpool and Cockcroft Institute in the musically iconic port city of Liverpool.
 
-The workshop will bring together experts from the fields of machine learning, accelerator physics, and high-performance computing to discuss the latest developments in the field of reinforcement learning for autonomous accelerators. The workshop will feature invited talks, contributed talks, and poster sessions, as well as a panel discussion on the future of autonomous accelerators.
+RL4AA brings together the reinforcement learning and accelerator physics communities to share results, practical insights from the field, and the big questions ahead for real-world RL. Expect engaging **keynotes**, **invited and contributed talks**, a lively **poster session**, and a **hands-on coding challenge**.
 
-RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our best to make sure there is something for everyone, from introductory tutorials to advanced research talks.
+### Scope
+Submissions are not limited to particle accelerators. We welcome any work on sequential decision-making in real-world settings (e.g., safety, sample efficiency, sim-to-real, partial observability). A set of student talk slots will be reserved.
 
-**This event is free to attend, but spaces are limited. We encourage you to register early to secure your spot.**
+### Coding challenge
+Join a team to tackle an accelerator-themed RL task. We will form balanced teams that mix newer folks and experienced contributors. You’ll submit results to a live Kaggle leaderboard as you go, improve your model, and we will wrap with awards for the top three teams
 
-We are looking forward to welcoming you to Liverpool in 2026!
+### Who should attend
+Whether you are deep into RL research or just starting and curious, there’s something for you (from introductory lectures the first day to advanced talks).
+
+### Registration
+**The event is free**, but places are limited. Please register early to secure your spot.
+
+We can’t wait to welcome you to Liverpool in 2026!
+
+{{< institute-logo-list >}}
+{{< institute-logo name="livinno" logo="logos/LIVINNO logo_CMYK 8000x.png" link="https://www.livinno.org" flex="5.0" >}}
+{{< /institute-logo-list >}}
 
 ## Keynote Speakers
 
@@ -53,7 +65,7 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 {{< organizer-list >}}
 {{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
 {{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
+{{< organizer name="Chenran Xu" institute="Argonne National Laboratory" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
 {{< organizer name="Joel Axel Wulff" institute="CERN" image="people/joel_wulff.jpg" link="https://www.linkedin.com/in/joel-wulff-8b840294/" >}}
 {{< /organizer-list >}}
@@ -82,14 +94,13 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 The following institutions are contributing to the organisation of this workshop.
 
 {{< institute-logo-list >}}
-{{< institute-logo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
-{{< institute-logo name="KIT" logo="logos/Logo_KIT.svg.png" link="https://www.kit.edu" invert="true" flex="1.4" >}}
-{{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" flex="1.4" >}}
-{{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
-{{< institute-logo name="TUHH" logo="logos/TUHH_logo-wortmarke_en_rgb.png" link="https://www.tuhh.de" flex="1.2" >}}
 {{< institute-logo name="University of Liverpool" logo="logos/University_of_Liverpool_logo.svg.png" link="https://www.liverpool.ac.uk" flex="1.96" invert="false" >}}
 {{< institute-logo name="Cockcroft Institute" logo="logos/Cockcroft_logo_text.png" link="https://www.cockcroft.ac.uk" invert="true" flex="1.3" >}}
+{{< institute-logo name="DESY" logo="logos/DESY_logo_3C_web.png" link="https://www.desy.de" >}}
+{{< institute-logo name="University of Salzburg" logo="logos/Logo_der_Universität_Salzburg.jpg" link="https://www.plus.ac.at" flex="1.4" >}}
+{{< institute-logo name="CERN" logo="logos/CERN_logo.svg.png" link="https://home.cern" >}}
 {{< institute-logo name="IDALAB" logo="logos/idalab_logo.png" link="https://www.plus.ac.at/aihi/der-fachbereich/ida-lab/" invert="true" flex="1.4" >}}
+{{< institute-logo name="Argonne National Laboratory" logo="logos/Argonne_cmyk_black.png" link="https://www.anl.gov/" invert="true" flex="1.4" >}}
 {{< /institute-logo-list >}}
 
 ## Funding
@@ -97,7 +108,6 @@ The following institutions are contributing to the organisation of this workshop
 These 3rd parties are generously supporting the RL4AA'26 workshop.
 
 {{< institute-logo-list >}}
-{{< institute-logo name="livinno" logo="logos/LIVINNO logo_CMYK 8000x.png" link="https://www.livinno.org" flex="5.0" >}}
 {{< institute-logo name="Cockcroft Institute" logo="logos/Cockcroft_logo_text.png" link="https://www.cockcroft.ac.uk" invert="true" flex="1.2" >}}
 {{< institute-logo name="radiasoft" logo="logos/RadiaSoft.png" link="https://www.radiasoft.net" flex="1.2" >}}
 {{< /institute-logo-list >}}
