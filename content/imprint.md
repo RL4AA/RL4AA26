@@ -1,6 +1,6 @@
 ## Imprint
 
-The responsibility for the content of this website lies with organisation committee of the RL4AA'25 workshop.
+The responsibility for the content of this website lies with the organisation committee of the RL4AA'26 workshop.
 
 #### Committee Members
 
@@ -11,21 +11,28 @@ The responsibility for the content of this website lies with organisation commit
 - Andrea Santamaria Garcia
 - Chenran Xu
 - Borja Rodriguez Mateos
+- Joel Axel Wulff
+- Alexander Brynes
+- Ana Guisao-Betancur
+- Joseph Wolfenden
+- Amelia Pollard
+- Sophie Gresty
+- Matt King
+- Naomi Smith
+- Alexandra Welsch
 
 #### Contact
 
-**Email:** [rl4aa@desy.de](mailto:rl4aa@desy.de){{< break >}}
-**Phone:** +49 40 8998-2381
+**Email:** [ansantam@liverpool.ac.uk](mailto:ansantam@liverpool.ac.uk){{< break >}}
+
+[**Phone:** +49 40 8998-2381]:#
 
 #### Address
 
-MSK IPC{{< break >}}
-Deutsches Elektronen-Synchrotron DESY{{< break >}}
-Notkestraße 85{{< break >}}
-22607 Hamburg{{< break >}}
-Germany
-
-UStd-IdNr.: DE 118714904
+University of Liverpool{{< break >}}
+Liverpool{{< break >}}
+L69 7ZP{{< break >}}
+The United Kingdom
 
 #### Liability Disclaimer
 

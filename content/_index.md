@@ -11,24 +11,20 @@ The workshop will bring together experts from the fields of machine learning, ac
 
 RL4AA welcomes seasoned RL practitioners as well as newcomers. We are doing our best to make sure there is something for everyone, from introductory tutorials to advanced research talks.
 
-Note also that this year's workshop is organised in coordination with [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators (MaLAPA) workshop](https://indico.cern.ch/event/1382428/) at CERN. Both workshops are organised such that you can attend them one after the other.
+**This event is free to attend, but spaces are limited. We encourage you to register early to secure your spot.**
 
-We are looking forward to welcoming you to Hamburg!
+We are looking forward to welcoming you to Liverpool in 2026!
 
 ## Keynote Speakers
 
 We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
 
-{{< speaker name="Jan Peters" position="Professor for Intelligent Autonomous Systems" institute="TU Darmstadt" image="people/jan_peters.jpg" link="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters" >}}
-Autonomous robots that can assist humans in situations of daily life have been a long-standing vision of robotics, artificial intelligence, and cognitive sciences. A first step towards this goal is to create robots that can learn tasks triggered by environmental context or higher level instruction. However, learning techniques have yet to live up to this promise as only few methods manage to scale to high-dimensional manipulator or humanoid robots. In this talk, we investigate a general framework suitable for learning motor skills in robotics which is based on the principles behind many analytical robotics approaches. To accomplish robot reinforcement learning from just few trials, the learning system can no longer explore all learn-able solutions but has to prioritize one solution over others – independent of the observed data. Such prioritization requires explicit or implicit assumptions, often called ‘induction biases’ in machine learning. Extrapolation to new robot learning tasks requires induction biases deeply rooted in general principles and domain knowledge from robotics, physics and control. Empirical evaluations on a several robot systems illustrate the effectiveness and applicability to learning control on an anthropomorphic robot arm. These robot motor skills range from toy examples (e.g., paddling a ball, ball-in-a-cup) to playing robot table tennis, juggling and manipulation of various objects.
+{{< speaker name="TBA" position="-" institute="-" image="people/tbd.svg" link="" >}}
+Talk description coming soon!
 {{< /speaker >}}
 
-{{< speaker name="Alessandro Pau" position="Research Scientist" institute="Swiss Plasma Center - EPFL" image="people/alessandro_pau.png" link="https://www.linkedin.com/in/alessandro-pau-a46916ba/?originalSubdomain=ch" >}}
-Recent advances in Artificial Intelligence (AI), Machine Learning (ML), and Reinforcement Learning (RL) offer promising pathways toward addressing complex control problems in fusion plasmas and Tokamak devices. Tokamaks, which use magnetic fields to confine a plasma, present unique operational challenges due to their nonlinear dynamics, high-dimensional parameter spaces, and stringent real-time control requirements. In this keynote, we will first provide an accessible introduction to magnetic confinement and Tokamak operations, highlighting both the complexity of plasma physics and the critical control objectives necessary for sustaining stable fusion reactions.
-
-Subsequently, we will explore how traditional control methods can be integrated and enhanced by leveraging ML, AI, and particularly RL, to provide innovative solutions to these long-standing issues. Recent developments leveraging RL demonstrate significant potential for improved performance in key areas such as plasma shape control, stability and disruption prediction. We will present specific case studies and experimental outcomes, underscoring how RL algorithms navigate the complex interplay between plasma physics, actuator constraints, and control objectives.
-
-Finally, we will touch upon some current open challenges, including real-time implementation constraints, interpretability of learned policies, and scalability, while highlighting directions for future research.
+{{< speaker name="TBA" position="-" institute="-" image="people/tbd.svg" link="" >}}
+Talk description coming soon!
 {{< /speaker >}}
 
 ## Impressions from RL4AA'25
@@ -55,25 +51,30 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 <!-- We are the organisers of this workshop. -->
 
 {{< organizer-list >}}
-{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}
 {{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
-{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
 {{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Joel Axel Wulff" institute="CERN" image="people/joel_wulff.jpg" link="https://www.linkedin.com/in/joel-wulff-8b840294/" >}}
 {{< /organizer-list >}}
 
 ## Local Organising Committee
 
 {{< organizer-list >}}
-{{< organizer name="Annika Eichler" institute="Deutsches Elektronen-Synchrotron DESY" image="people/annika_eichler.jpg" link="https://www.linkedin.com/in/annika-eichler-076854316/" >}}
-{{< organizer name="Jan Kaiser" institute="Deutsches Elektronen-Synchrotron DESY" image="people/jan_kaiser.jpg" link="https://jank324.github.io/" >}}
-{{< organizer name="Christian Hespe" institute="Deutsches Elektronen-Synchrotron DESY" image="people/christian_hespe.jpg" link="https://www.linkedin.com/in/christian-hespe/" >}}
-{{< organizer name="Simon Hirlaender" institute="University of Salzburg" image="people/simon_hirlaender.jpg" link="https://mathphyssim.github.io/" >}}
-{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
-{{< organizer name="Chenran Xu" institute="Karlsruhe Institute of Technology" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
-{{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
+{{< organizer name="Alexander Brynes" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
+{{< organizer name="Amelia Pollard" institute="ASTeC, STFC" image="people/amelia_pollard.jpg" link="https://www.linkedin.com/in/amylizzlep/" >}}
+{{< organizer name="Ana Guisao-Betancur" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Joseph Wolfenden" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Sophie Gresty" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Matt King" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
+{{< organizer name="Naomi Smith" institute="University of Liverpool, Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Alexandra Welsch" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< /organizer-list >}}
+
+## Workshop Chair
+
+{{< organizer-list >}}
+{{< organizer name="Andrea Santamaria Garcia" institute="University of Liverpool and Cockroft Institute" image="people/andrea_santamaria_garcia.jpg" link="https://ansantam.github.io/" >}}
 {{< /organizer-list >}}
 
 ## Organising Institutions
@@ -93,15 +94,10 @@ The following institutions are contributing to the organisation of this workshop
 
 ## Funding
 
-These 3rd parties are generously supporting the RL4AA'25 workshop.
+These 3rd parties are generously supporting the RL4AA'26 workshop.
 
 {{< institute-logo-list >}}
-{{< institute-logo name="AdWHH" logo="logos/AdWHH_Logo.png" link="https://www.awhamburg.de" flex="1.3" >}}
-{{< institute-logo name="Go2Prof" logo="logos/go-2-prof-in_16zu9_mit_HAW_Logo.jpg" link="https://www.haw-hamburg.de" flex="1.3" >}}
-{{< institute-logo name="BMBF" logo="logos/BMBF_gefördert vom_deutsch.jpg" link="https://www.bmbf.de" flex="1.2" >}}
-{{< institute-logo name="BWFG" logo="logos/BWFG_B_deu_HKS.jpg" link="https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-wissenschaft-forschung-gleichstellung-und-bezirke" flex="1.8" >}}
-{{< institute-logo name="CSSB" logo="logos/CSSB logo.png" link="https://www.cssb-hamburg.de" flex="1.6" >}}
-{{< institute-logo name="DASHH" logo="logos/dashh_logo_cropped.png" link="https://www.dashh.org" flex="1.9" >}}
+{{< institute-logo name="livinno" logo="logos/LIVINNO logo_CMYK 8000x.png" link="https://www.livinno.org" flex="5.0" >}}
+{{< institute-logo name="Cockcroft Institute" logo="logos/Cockcroft_logo_text.png" link="https://www.cockcroft.ac.uk" invert="true" flex="1.2" >}}
+{{< institute-logo name="radiasoft" logo="logos/RadiaSoft.png" link="https://www.radiasoft.net" flex="1.2" >}}
 {{< /institute-logo-list >}}
-
-_Unterstützt durch die Akademie der Wissenschaften in Hamburg, finanziert durch die Altonaer Stiftung für philosophische Grundlagenforschung._
