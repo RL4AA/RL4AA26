@@ -14,12 +14,12 @@ The responsibility for the content of this website lies with the organisation co
 - Joel Axel Wulff
 - Alexander Brynes
 - Ana Guisao-Betancur
-- Christian Hespe
-- Parth Patil
 - Joseph Wolfenden
 - Amelia Pollard
 - Sophie Gresty
 - Matt King
+- Naomi Smith
+- Alexandra Welsch
 
 #### Contact
 
