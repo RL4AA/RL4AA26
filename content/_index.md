@@ -76,7 +76,7 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 {{< organizer name="Alexander Brynes" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
 {{< organizer name="Amelia Pollard" institute="ASTeC, STFC" image="people/amelia_pollard.jpg" link="https://www.linkedin.com/in/amylizzlep/" >}}
 {{< organizer name="Ana Guisao-Betancur" institute="University of Liverpool and Cockroft Institute" image="people/Ana_guisao_Betancur.jpg" link="" >}}
-{{< organizer name="Joseph Wolfenden" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Joseph Wolfenden" institute="University of Liverpool and Cockroft Institute" image="people/Joseph_wolfenden.jpg" link="" >}}
 {{< organizer name="Sophie Gresty" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
 {{< organizer name="Matt King" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
 {{< organizer name="Naomi Smith" institute="University of Liverpool, Cockroft Institute" image="people/Naomi_Smith.jpg" link="" >}}
