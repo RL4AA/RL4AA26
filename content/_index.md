@@ -68,6 +68,7 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 {{< organizer name="Chenran Xu" institute="Argonne National Laboratory" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
 {{< organizer name="Joel Axel Wulff" institute="CERN" image="people/joel_wulff.jpg" link="https://www.linkedin.com/in/joel-wulff-8b840294/" >}}
+{{< organizer name="Malachi Schram" institute="Jefferson Lab" image="people/tbd.svg" link="" >}}
 {{< /organizer-list >}}
 
 ## Local Organising Committee
@@ -77,7 +78,7 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 {{< organizer name="Amelia Pollard" institute="ASTeC, STFC" image="people/amelia_pollard.jpg" link="https://www.linkedin.com/in/amylizzlep/" >}}
 {{< organizer name="Ana Guisao-Betancur" institute="University of Liverpool and Cockroft Institute" image="people/Ana_guisao_Betancur.jpg" link="" >}}
 {{< organizer name="Joseph Wolfenden" institute="University of Liverpool and Cockroft Institute" image="people/Joseph_wolfenden.jpg" link="" >}}
-{{< organizer name="Sophie Gresty" institute="University of Liverpool and Cockroft Institute" image="people/tbd.svg" link="" >}}
+{{< organizer name="Sophie Gresty" institute="University of Liverpool and Cockroft Institute" image="people/sophie_gresty.jpg" link="" >}}
 {{< organizer name="Matt King" institute="ASTeC, STFC" image="people/tbd.svg" link="" >}}
 {{< organizer name="Naomi Smith" institute="University of Liverpool, Cockroft Institute" image="people/Naomi_Smith.jpg" link="" >}}
 {{< organizer name="Alexandra Welsch" institute="University of Liverpool and Cockroft Institute" image="people/Alexandra_Welsch.jpg" link="" >}}
