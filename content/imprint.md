@@ -20,6 +20,7 @@ The responsibility for the content of this website lies with the organisation co
 - Matt King
 - Naomi Smith
 - Alexandra Welsch
+- Malachi Schram
 
 #### Contact
 
