@@ -68,7 +68,7 @@ Here are some impressions from the previous RL4AA workshop in Hamburg in April 2
 {{< organizer name="Chenran Xu" institute="Argonne National Laboratory" image="people/chenran_xu.jpg" link="https://cr-xu.github.io/" >}}
 {{< organizer name="Borja Rodriguez Mateos" institute="CERN" image="people/borja_rodriguez_mateos.jpg" link="https://www.linkedin.com/in/borja-rodriguez-mateos-4b0657151" >}}
 {{< organizer name="Joel Axel Wulff" institute="CERN" image="people/joel_wulff.jpg" link="https://www.linkedin.com/in/joel-wulff-8b840294/" >}}
-{{< organizer name="Malachi Schram" institute="Thomas Jefferson National Accelerator Facility" image="people/tbd.svg" link="" >}}
+{{< organizer name="Malachi Schram" institute="Thomas Jefferson National Accelerator Facility" image="people/Malachi_Schram.png" link="" >}}
 {{< /organizer-list >}}
 
 ## Local Organising Committee
