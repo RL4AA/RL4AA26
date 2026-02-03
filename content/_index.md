@@ -27,16 +27,12 @@ We can’t wait to welcome you to Liverpool in 2026!
 {{< institute-logo name="livinno" logo="logos/LIVINNO logo_CMYK 8000x.png" link="https://www.livinno.org" flex="5.0" >}}
 {{< /institute-logo-list >}}
 
-## Keynote Speakers
+## Keynote Speaker
 
-We have a very exciting line-up of keynote speakers, and are very much looking forward to their talks!
+We have a very exciting keynote speaker this year, and are very much looking forward to their talk!
 
 {{< speaker name="Samuele Tosatto" position="Assistant Professor" institute="University of Innsbruck" image="people/samuele_tossato.jpg" link="https://samueletosatto.online/" >}}
 Samuele Tosatto is an Assistant Professor at the University of Innsbruck, where he develops machine learning techniques for autonomous robot learning. Before his position in Innsbruck, Samuele earned his PhD at the Technical University of Darmstadt (Germany) under the supervision of Prof. Jan Peters, followed by a postdoctoral position at the Reinforcement Learning and Artificial Intelligence (RLAI) laboratory at the University of Alberta (Canada). Despite recent progress in the field, autonomous learning remains sample-inefficient and challenging to apply in the real world. Samuele's research is focused on making reinforcement learning more efficient by analyzing and revising its core components and developing techniques that embed assumptions that better capture the complexity of the physical world.
-{{< /speaker >}}
-
-{{< speaker name="TBA" position="-" institute="-" image="people/tbd.svg" link="" >}}
-Talk description coming soon!
 {{< /speaker >}}
 
 ## Impressions from RL4AA'25
