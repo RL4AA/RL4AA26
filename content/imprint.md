@@ -17,7 +17,6 @@ The responsibility for the content of this website lies with the organisation co
 - Joseph Wolfenden
 - Amelia Pollard
 - Sophie Gresty
-- Matt King
 - Naomi Smith
 - Alexandra Welsch
 - Malachi Schram
