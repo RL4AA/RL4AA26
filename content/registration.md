@@ -8,6 +8,8 @@ We are very pleased to announce that we are able to waive the registration fee f
 
 For registration, please follow the button below to access the Indico page of this workshop.
 
+**Registration has closed, but you can still access the indico page for an overview of the workshop contents through the link below.**
+
 {{< button href="https://indico.ph.liv.ac.uk/event/2025/overview" target="_self" >}}
 Go to registration!
 {{< /button >}}
